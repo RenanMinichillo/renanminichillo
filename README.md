@@ -20,8 +20,8 @@
 </div>
 <h4>Conecte-se comigo:</h4>
 <div>
-  <a href="https://www.linkedin.com/in/renanminichillo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/><a/>
-  <a href="https://api.whatsapp.com/send/?phone=%2B5511972852951&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/><a/>
+  <a href="https://www.linkedin.com/in/renanminichillo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5511972852951&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/></a>
   <a href="mailto:renan.frans@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
   <a href="https://www.instagram.com/renan_minichillo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
 </div>
@@ -29,9 +29,6 @@
 <h3>Minhas Estatísticas</h3>
 <br>
 <br>
-[![Renan Status](https://github-readme-stats.vercel.app/api?username=renanminichillo)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
+[![Renan Stats](https://github-readme-stats.vercel.app/api?username=renanminichillo)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanminichillo)](https://github.com/anuraghazra/github-readme-stats)
-<br>
