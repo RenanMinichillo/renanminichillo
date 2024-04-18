@@ -26,9 +26,3 @@
   <a href="https://www.instagram.com/renan_minichillo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
 </div>
 <br>
-<h3>Minhas Estatísticas</h3>
-<br>
-<br>
-[![Renan Stats](https://github-readme-stats.vercel.app/api?username=renanminichillo)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanminichillo)](https://github.com/anuraghazra/github-readme-stats)
